@@ -1,0 +1,36 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(226, 236, 239);
+    text-align: center;
+}
+
+input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:5px 10px;
+    color: darkslategray;
+    background-color: aliceblue;
+}
+
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:5px 10px;
+    background-color: aliceblue;
+    color: darkslategray;
+    border: 3px solid rgb(89, 89, 129);
+}
+
+.delete{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:3px 10px;
+    background-color: aliceblue;
+    color: darkslategray;
+    border: 3px solid rgb(89, 89, 129);
+    margin-left: 10px;
+}
+
+li{
+    margin:7px;
+    font-weight: bold;
+
+}
+
